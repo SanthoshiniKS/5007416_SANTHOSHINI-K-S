@@ -1,4 +1,3 @@
-package digital.nurtures;
 import java.util.*;
 public class InventoryManagement {
     public static void main(String[] args) {
